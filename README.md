@@ -1,4 +1,4 @@
-Python Projects for Beginners
+##Python Projects for Beginners
 Welcome to my collection of beginner-level Python projects! These projects have helped me practice and understand fundamental programming concepts, such as data structures, control flow, functions, and more. I have built these projects based on various tutorials and resources available online.
 
 Table of Contents
@@ -7,13 +7,8 @@ Projects
 1. Hello World
 2. Basic Calculator
 3. Number Guessing Game
-4. To-Do List
-5. Simple Dice Roller
-6. Rock, Paper, Scissors Game
-7. Basic Unit Converter
-8. Simple Password Generator
-9. Mad Libs Game
-10. Basic Web Scraper
+4. Rock, Paper, Scissors Game
+
 How to Run
 Learning Resources
 Contributing
