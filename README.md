@@ -1,4 +1,5 @@
 ***Python Projects for Beginners***
+
 Welcome to my collection of beginner-level Python projects! These projects have helped me practice and understand fundamental programming concepts, such as data structures, control flow, functions, and more. I have built these projects based on various tutorials and resources available online.
 
 Table of Contents
